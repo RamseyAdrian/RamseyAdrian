@@ -1,5 +1,5 @@
 # 💻 About Me
-I am a passionate Software Engineer with a strong focus on **Frontend Development**, **Backend Development**, and **Mobile Development**. I graduated with distinction in Computer Science and gained hands-on experience through internships and freelance work, where I developed robust technical skills, teamwork capabilities, and problem-solving abilities.
+I am a passionate Software Engineer with a strong focus on **Frontend Development** and **Backend Development**. I graduated with distinction in Computer Science and gained hands-on experience through internships and freelance work, where I developed robust technical skills, teamwork capabilities, and problem-solving abilities.
 
 ---
 
